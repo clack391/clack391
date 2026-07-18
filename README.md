@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hey, I'm Precious 👋
 
-<!--
-**clack391/clack391** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Development student at BYU-Idaho, currently working as a Product Intern at OpenTeams and a Software Developer / AI Engineer at Pioneer Artificial Intelligence Academy in Lagos, Nigeria. I like building things that actually work well, whether that's a QA workflow, a machine learning pipeline, or an app in my spare time.
 
-Here are some ideas to get you started:
+## What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** Python, JavaScript, SQL
+**Backend:** FastAPI
+**Frontend:** React, React Native
+**Databases:** MySQL
+**Cloud/Platforms:** AWS (S3, EC2), Dynamics 365
+**Other:** Machine Learning, Data Validation, QA Testing
+
+## What I'm building
+
+**Studae** — a study app I'm building on my own, FastAPI backend, React Native frontend, with meaning-based search instead of just keyword matching.
+
+At Pioneer AI Academy, I work on data quality frameworks and feature-extraction models for financial transaction classification. At OpenTeams, I do QA testing on an internal product, running structured tests on pull requests and writing up findings for the engineering team.
+
+## GitHub Stats
+
+
+
+![Precious's GitHub stats](https://github-readme-stats.vercel.app/api?username=clack391&show_icons=true&theme=default)
+
+
+
+## Let's connect
+
+[LinkedIn](https://www.linkedin.com/in/precious-onotu-aba9b6312) · clack391@gmail.com
