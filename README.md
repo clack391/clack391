@@ -1,6 +1,6 @@
 # Hey, I'm Precious 👋
 
-I'm a Software Development student at BYU-Idaho, currently working as a Product Intern at OpenTeams and a Software Developer / AI Engineer at Pioneer Artificial Intelligence Academy in Lagos, Nigeria. I like building things that actually work well, whether that's a QA workflow, a machine learning pipeline, or an app in my spare time.
+I'm a Software Development student at BYU-Idaho, currently working as a Product Intern at OpenTeams and a Software Developer / AI Engineer at Pioneer Artificial Intelligence Academy in Warri, Nigeria. I like building things that actually work well, whether that's a QA workflow, a machine learning pipeline, or an app in my spare time.
 
 ## What I work with
 
@@ -21,7 +21,7 @@ At Pioneer AI Academy, I work on data quality frameworks and feature-extraction 
 
 
 
-![Precious's GitHub stats](https://github-readme-stats.vercel.app/api?username=clack391&show_icons=true&theme=default)
+![Precious's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=clack391&show_icons=true&theme=default)
 
 
 
