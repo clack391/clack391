@@ -13,7 +13,7 @@ I'm a Software Development student at BYU-Idaho, currently working as a Product 
 
 ## What I'm building
 
-**Studae** — a study app I'm building on my own, FastAPI backend, React Native frontend, with meaning-based search instead of just keyword matching.
+**Studae** a study app I'm building on my own, FastAPI backend, React Native frontend, with meaning-based search instead of just keyword matching.
 
 At Pioneer AI Academy, I work on data quality frameworks and feature-extraction models for financial transaction classification. At OpenTeams, I do QA testing on an internal product, running structured tests on pull requests and writing up findings for the engineering team.
 
