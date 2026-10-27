@@ -1,6 +1,7 @@
 # Hey, I'm Precious 👋
 
-I'm a Software Development student at BYU-Idaho, currently working as a Product Intern at OpenTeams and a Software Developer / AI Engineer at Pioneer Artificial Intelligence Academy in Warri, Nigeria. I like building things that actually work well, whether that's a QA workflow, a machine learning pipeline, or an app in my spare time.
+I'm a Software Development student at BYU-Idaho who enjoys building things that actually work well, whether that's a QA workflow, a machine learning pipeline, or an app in my spare time. I'm interested in software development, AI engineering, and creating practical solutions to real-world problems.
+
 
 ## What I work with
 
